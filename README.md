@@ -1,4 +1,4 @@
-<h2 align='right'>
+<h2 align='left'>
     Hello there 👋, I'm Kuster.
 </h2>
 <img src="https://github.com/andkuster/andkuster/blob/main/machine-redimensionado-edit.jpg">
