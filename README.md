@@ -1,6 +1,6 @@
-<h1 align='right'>
+<h2 align='right'>
     Hello there 👋, I'm Andre Kuster.
-</h1>
+</h2>
 
 <h3 align='right'>
     A passionate data scientist from Brazil.
