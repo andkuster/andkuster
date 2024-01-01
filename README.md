@@ -1,8 +1,5 @@
-<h2 align='right'>
-    Hello there 👋, I'm Andre Kuster.
-</h2>
-
 <h3 align='right'>
+    Hello there 👋, I'm Andre Kuster.
     A passionate data scientist from Brazil.
 </h3>
 
