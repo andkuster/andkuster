@@ -1,16 +1,15 @@
-<h1 align='right'>
+<h2 align='right'>
     Hello there 👋, I'm Andre Kuster.
-</h1>
+</h2>
 <img src="https://github.com/andkuster/andkuster/blob/main/machine-redimensionado-edit.jpg">
-<h3 align='right'>
-    A passionate data scientist from Brazil.
-</h3>
 
-- 🔭 I’m currently working on **DS Projects**;
-- 👯 I’m looking to collaborate on **Pyspark projects**;
-- 🤝 I’m looking for help with **Python ML Projects**;
-- 📄 Know about my experiences on [https://www.linkedin.com/in/andre-kuster/](https://www.linkedin.com/in/andre-kuster/);
-- ⚡ Fun fact **I play Saxophone**;
+<h3 align="left">About me:</h3>
+
+    👨‍🎓 Graduated Civil Engineer (Brazil). Master in High Efficency Energy Buildings (France)
+    👨‍💻 MBA in Data Science and Analytics (USP-Brazil)
+    📊 Addicted to tell stories with charts
+    🔭 Currently working as a Data Analyst
+    ⚡ Fun fact: I play Saxophone
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
