@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm André Kuster</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
+<h3 align="center">A passionate Data Scientist from Brazil</h3>
 
 <img src="https://github.com/andkuster/andkuster/blob/main/machine-redimensionado-edit.jpg">
 
-- 🔭 I’m currently working on **Python (and R) DS Projects**
+- 🔭 I’m currently working on **DS Projects**
 
 - 👯 I’m looking to collaborate on **Pyspark projects**
 
 - 🤝 I’m looking for help with **Python ML Projects**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andre-kuster/](https://www.linkedin.com/in/andre-kuster/)
+- 📄 Know about my experiences on [https://www.linkedin.com/in/andre-kuster/](https://www.linkedin.com/in/andre-kuster/)
 
 - ⚡ Fun fact **I play Saxophone**
 
