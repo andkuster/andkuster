@@ -1,12 +1,10 @@
-<h3 align='right'>
-    Hello there 👋, I'm Andre Kuster
-</h3>
-
+<h1 align='right'>
+    Hello there 👋, I'm Andre Kuster.
+</h1>
+<img src="https://github.com/andkuster/andkuster/blob/main/machine-redimensionado-edit.jpg">
 <h3 align='right'>
     A passionate data scientist from Brazil.
 </h3>
-
-<img src="https://github.com/andkuster/andkuster/blob/main/machine-redimensionado-edit.jpg">
 
 - 🔭 I’m currently working on **DS Projects**;
 - 👯 I’m looking to collaborate on **Pyspark projects**;
