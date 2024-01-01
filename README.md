@@ -1,5 +1,5 @@
 <h2 align='right'>
-    Hello there 👋, I'm Andre Kuster.
+    Hello there 👋, I'm Kuster.
 </h2>
 <img src="https://github.com/andkuster/andkuster/blob/main/machine-redimensionado-edit.jpg">
 
