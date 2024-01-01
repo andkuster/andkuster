@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Kuster</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
-(https://github.com/andkuster/andkuster/blob/main/machine-redimensionado.jpg)
+<img src="[.github/original.gif](https://github.com/andkuster/andkuster/blob/main/machine-redimensionado.jpg)" width="600px">
 
 - 🔭 I’m currently working on **Python (and R) DS Projects**
 
