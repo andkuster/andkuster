@@ -11,6 +11,13 @@
     🔭 Currently working as a Data Analyst
     ⚡ Fun fact: I play Saxophone
 
+<h3 align="left">Portfolio:</h3>
+<!-- POST-LIST:START -->
+- [Customer Segmentation Analysis - K-Means](https://github.com/andkuster/customer-segmentation-analysis)
+- [Support Tickets Sentimental Analysis - NLP](https://github.com/andkuster/customer-support-ticket)
+
+<!-- POST-LIST:END -->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
