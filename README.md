@@ -13,8 +13,9 @@
 
 <h3 align="left">Portfolio:</h3>
 <!-- POST-LIST:START -->
-- [Customer Segmentation Analysis - K-Means](https://github.com/andkuster/customer-segmentation-analysis)
-- [Support Tickets Sentimental Analysis - NLP](https://github.com/andkuster/customer-support-ticket)
+
+- [Customer Segmentation Analysis](https://github.com/andkuster/customer-segmentation-analysis) [in progress]<br>
+- [Support Tickets Sentimental Analysis](https://github.com/andkuster/customer-support-ticket) [in progress]
 
 <!-- POST-LIST:END -->
 
