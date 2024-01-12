@@ -15,7 +15,8 @@
 <!-- POST-LIST:START -->
 
 - [Customer Segmentation Analysis](https://github.com/andkuster/customer-segmentation-analysis) [in progress]<br>
-- [Support Tickets Sentimental Analysis](https://github.com/andkuster/customer-support-ticket) [in progress]
+- [Support Tickets Sentimental Analysis](https://github.com/andkuster/customer-support-ticket) [in progress]<br>
+- [Learning Python](https://github.com/andkuster/learning-python) - How I learned python in 30 days [in progress]
 
 <!-- POST-LIST:END -->
 
