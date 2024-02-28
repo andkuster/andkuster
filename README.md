@@ -15,6 +15,7 @@
 <!-- POST-LIST:START -->
 
 - [Learning Python](https://github.com/andkuster/learning-python) - How I learned python in 30 steps [in progress]
+- [Exploratory Data Analysis (EDA) in Python](https://github.com/andkuster/eda_python) <br>
 - [Support Tickets Sentimental Analysis](https://github.com/andkuster/customer-support-ticket) [in progress]<br>
 - [Customer Segmentation Analysis](https://github.com/andkuster/customer-segmentation-analysis) [in progress]<br>
 
