@@ -15,7 +15,7 @@
 <!-- POST-LIST:START -->
 
 - [Learning Python](https://github.com/andkuster/learning-python) - How I learned python in 30 steps [in progress]
-- [Python Exploratory Data Analysis (EDA) on Olist Marketplace Dataset](https://github.com/andkuster/eda_python) <br>
+- [Exploratory Data Analysis (EDA) on Olist Marketplace Dataset](https://github.com/andkuster/eda_python) <br>
 - [PostgreSQL Database Creation and EDA - Bicycle Market Analysis](https://github.com/andkuster/sql_project)
 - [Statistics and EDA exploring Taxi Trips in NYC](https://github.com/andkuster/eda_statistics)
 - [Support Tickets Sentimental Analysis](https://github.com/andkuster/customer-support-ticket) [in progress]<br>
