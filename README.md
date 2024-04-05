@@ -15,11 +15,11 @@
 <!-- POST-LIST:START -->
 
 - [Learning Python](https://github.com/andkuster/learning-python) - How I learned python in 30 steps [in progress]
-- [Exploratory Data Analysis (EDA) on Olist Marketplace Dataset](https://github.com/andkuster/eda_python) <br>
-- [PostgreSQL Database Creation and EDA - Bicycle Market Analysis](https://github.com/andkuster/sql_project)
-- [Statistics and EDA exploring Taxi Trips in NYC](https://github.com/andkuster/eda_statistics)
-- [Support Tickets Sentimental Analysis](https://github.com/andkuster/customer-support-ticket) [in progress]<br>
-- [Customer Segmentation Analysis](https://github.com/andkuster/customer-segmentation-analysis) [in progress]<br>
+- [Exploratory Data Analysis (EDA)](https://github.com/andkuster/eda_python) -  Olist Marketplace Dataset
+- [PostgreSQL Database Creation and EDA](https://github.com/andkuster/sql_project) - Bicycle Market Analysis
+- [Statistics and EDA](https://github.com/andkuster/eda_statistics) -  Exploring Taxi Trips in NYC
+- [Sentiment Analysis](https://github.com/andkuster/customer-support-ticket) - Understanding Customer Support Tickets [in progress]
+- [Customer Segmentation Analysis](https://github.com/andkuster/customer-segmentation-analysis) -  Clustering and Factor Analysis [in progress]
 
 <!-- POST-LIST:END -->
 
