@@ -19,7 +19,7 @@
 - [PostgreSQL Database Creation and EDA](https://github.com/andkuster/sql_project) - Bicycle Market Analysis
 - [Statistics and EDA](https://github.com/andkuster/eda_statistics) -  Exploring Taxi Trips in NYC
 - [Customer Segmentation Analysis](https://github.com/andkuster/customer-segmentation-analysis) -  Machine Learning: Clustering and Factor Analysis [in progress]
-- [Sentiment Analysis](https://github.com/andkuster/customer-support-ticket) - Understanding Customer Support Tickets [in progress]
+- [Sentiment Analysis](https://github.com/andkuster/customer-support-ticket) - Understanding Customer Support Tickets with NLP [in progress]
 
 <!-- POST-LIST:END -->
 
