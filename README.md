@@ -5,10 +5,10 @@
 
 <h3 align="left">About me:</h3>
 
-    👨‍🎓 Graduated Civil Engineer (Brazil). Master in High Efficency Energy Buildings (France)
+    👨‍🎓 Graduated Civil Engineer (Brazil), Master in High Efficency Energy Buildings (France)
     👨‍💻 MBA in Data Science and Analytics (USP-Brazil)
     📊 Addicted to tell stories with charts
-    🔭 Currently working as a Data Analyst
+    🔭 Currently working as a Data Analyst | Data Scientist
     ⚡ Fun fact: I play Saxophone
 
 <h3 align="left">Portfolio:</h3>
