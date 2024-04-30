@@ -18,7 +18,8 @@
 - [Exploratory Data Analysis (EDA)](https://github.com/andkuster/eda_python) -  Olist Marketplace Dataset
 - [PostgreSQL Database Creation and EDA](https://github.com/andkuster/sql_project) - Bicycle Market Analysis
 - [Statistics and EDA](https://github.com/andkuster/eda_statistics) -  Exploring Taxi Trips in NYC
-- [Customer Segmentation Analysis](https://github.com/andkuster/customer-segmentation-analysis) -  Machine Learning: Clustering and Factor Analysis [in progress]
+- [Machine Learning: KNN and Random Forests](https://github.com/andkuster/churn_prediction) - Telecom Churn Prediction
+- [Machine Learning: Clustering and Factor Analysis](https://github.com/andkuster/customer-segmentation-analysis) - Customer Segmentation Analysis [in progress]
 - [Sentiment Analysis](https://github.com/andkuster/customer-support-ticket) - Understanding Customer Support Tickets with NLP [in progress]
 
 <!-- POST-LIST:END -->
