@@ -19,6 +19,7 @@
 - [PostgreSQL Database Creation and EDA](https://github.com/andkuster/sql_project) - Bicycle Market Analysis
 - [Statistics and EDA](https://github.com/andkuster/eda_statistics) -  Exploring Taxi Trips in NYC
 - [Machine Learning: KNN and Random Forests](https://github.com/andkuster/churn_prediction) - Telecom Churn Prediction
+- [Machine Learning: Ensemble and K-Means](https://github.com/andkuster/satisfaction_prediction/tree/main) - Passengers Satisfaction
 - [Sentiment Analysis](https://github.com/andkuster/customer-support-ticket) - Understanding Customer Support Tickets with NLP [in progress]
 <!---
 - [Machine Learning: Clustering and Factor Analysis](https://github.com/andkuster/customer-segmentation-analysis) - Customer Segmentation Analysis [in progress]
